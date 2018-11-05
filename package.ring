@@ -6,7 +6,6 @@ aPackageInfo = [
 	: email 	= "Mkibreet@gmail.com",
 	: license       = "MIT License",
 	: VERsion       = "1.0.0",
-	: Kibreet	= "Mahmoid",
 	: files		= [
 		"test.ring"
 	]
