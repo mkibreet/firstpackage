@@ -1,3 +1,4 @@
+# Hello
 aPackageInfo = [
 	:name 		= "The First Package",
 	: description   = "Our first package using the RingPm",	
